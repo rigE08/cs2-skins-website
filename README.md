@@ -6,3 +6,6 @@
 ## Preview
 ![preview](https://github.com/rigE08/cs2-skins-website/blob/main/login.png)
 ![preview](https://github.com/rigE08/cs2-skins-website/blob/main/Skins.gif)
+
+## Demo
+[Zutv Demo](https://cs.zutv.ro/skins)
